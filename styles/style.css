@@ -1,0 +1,8 @@
+@media screen and (max-width:576px) {
+    .fw-bold{
+        margin-top: 50px;
+    }
+    .w-50{
+        width: 100% !important;
+    }
+}
